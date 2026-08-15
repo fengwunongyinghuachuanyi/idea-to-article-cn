@@ -1,0 +1,4 @@
+interface:
+  display_name: "观点讨论到文章"
+  short_description: "通过持续讨论澄清观点、补充论据并写成自然可信的中文文章"
+  default_prompt: "使用 $idea-to-article-cn，先确认我提出的观点并与我持续讨论，等我明确结束讨论后再综合写成文章。"
